@@ -17,8 +17,8 @@ title: Системы и методы принятия решений
 email: andrey149502@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Конспекты лекций предмета "Системы и методы принятия решений"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://andrey149502.github.io/samodm" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/samodm" # the subpath of your site, e.g. /blog
+url: "https://andrey149502.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: andrey149502
 
