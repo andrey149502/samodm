@@ -2,7 +2,6 @@
 layout: post
 title:  "Лекция 2"
 date:   2017-09-12 11:28:33 +0300
-categories: lectures
 ---
 **Глоссарий** — словарь к тексту.
 
