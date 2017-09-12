@@ -21,6 +21,7 @@ baseurl: "/samodm" # the subpath of your site, e.g. /blog
 url: "https://andrey149502.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: andrey149502
+google_analytics: UA-96455420-4
 
 # Build settings
 markdown: kramdown
